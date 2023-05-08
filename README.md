@@ -1,3 +1,20 @@
+host varsion
+```
+os : Ubuntu 22.04 LTS
+VirtualBox : 6.1.32
+Vagrant : 2.2.19
+```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
+
+VM varsion
+```
+boxname : Webtools
+os : Ubuntu 20.04 LTS (ubuntu/focal64)
+node.js : v18.16.0
+npm : v9.5.1
+package : create-next-app
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
